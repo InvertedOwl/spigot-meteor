@@ -1,0 +1,10 @@
+name: MeteorShower
+version: 1.0
+main: com.exmogamers.meteor.Main
+api-version: 1.16
+
+commands:
+  togglemeteors:
+  frequency:
+  radius:
+  impact:
